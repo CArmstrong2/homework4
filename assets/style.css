@@ -1,0 +1,25 @@
+nav{
+    display:flex;
+    justify-content:space-between;
+    margin: 0 10px;
+}
+
+nav a{
+    color:purple;
+    text-decoration: none;
+}
+
+main h1{
+    display:flex;
+    justify-content:center;
+    margin-top:5%;
+}
+
+main p{
+    display:flex;
+    justify-content:center;
+}
+
+main .btn{
+   /* CENTER ME */
+}
